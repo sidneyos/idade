@@ -1,0 +1,20 @@
+C:\Users\Sydney\Documents\programaçao\idade\idade\bin\Debug\idade.exe.config
+C:\Users\Sydney\Documents\programaçao\idade\idade\bin\Debug\idade.exe
+C:\Users\Sydney\Documents\programaçao\idade\idade\bin\Debug\idade.pdb
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.Form1.resources
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.exe
+C:\Users\Sydney\Documents\programaçao\idade\idade\obj\Debug\idade.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\bin\Debug\idade.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\bin\Debug\idade.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\bin\Debug\idade.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.frmidade.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\idade\idade\obj\Debug\idade.pdb
